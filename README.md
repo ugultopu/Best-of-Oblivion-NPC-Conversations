@@ -17,7 +17,7 @@ I will collect my favourite "Oblivion NPC Conversations" in this repository. I w
 
 Feel free to contribute by creating a pull request or creating an issue.
 
-- Senior woman is angry due to construction noise on on Sunday morning:
+- Senior woman is angry due to construction noise on a Sunday morning (the best I've watched so far):
   [![Senior woman is angry due to construction noise on on Sunday morning](https://img.youtube.com/vi/MXqWdtsFqsc/maxresdefault.jpg)](https://youtu.be/MXqWdtsFqsc)
 
 - Man rambles about how "people are planning to shit themselves to death at the end of the world":
